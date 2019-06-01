@@ -1,0 +1,7 @@
+Codigos para cada tipo de uso
+
+Tipo de vino         --> 1
+Presentacion botella --> 2
+Tipos de factura     --> 3
+Tipos de carga       --> 4
+         
